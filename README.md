@@ -1,6 +1,6 @@
 <!-- README.md for GitHub profile -->
 
-<h1 align="center">Hi there 👋, I'm Sara</h1>
+<h1 align="center">Hi there 👋
 <h3 align="center">Engineer | Problem Solver | Gopher in Training 🐹</h3>
 
 ---
